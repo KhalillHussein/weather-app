@@ -9,8 +9,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/main.png" width="256" hspace="4">
-  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/result.png" width="256" hspace="4">
-  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/overview.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/search.png" width="256" hspace="4">
 </p>
 
 [See more](https://github.com/KhalillHussein/weather-app/tree/main/preview/)

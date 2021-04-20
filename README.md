@@ -1,34 +1,39 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/icon.png" width="192">
+</p>
+<h1 align="center">Weather App</h1>
+<h3 align="center">Simple Mobile Weather App</h3>
 
 
-# Clima ☁
+### Preview
 
-## Our Goal
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/main.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/result.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weather-app/main/preview/overview.png" width="256" hspace="4">
+</p>
 
-The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
-
-
-## What you will create
-
-We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
-
-## What you will learn
-
-- How to use Dart to perform asynchronous tasks.
-- Understand async and await.
-- Learn about Futures and how to work with them.
-- How to network with the Dart http package.
-- What APIs are and how to use them to get data from the internet.
-- What JSONs are and how to parse them using the Dart convert package.
-- How to pass data forwards and backwards between screens using the Navigator.
-- How to handle exceptions in Dart using try/catch/throw.
-- Learn about the lifecycle of Stateful Widgets and how to override them.
-- How to use the Geolocator package to get live location data for both iOS and Android.
-- How to use the TextField Widget to take user input.
+[See more](https://github.com/KhalillHussein/weather-app/tree/main/preview/)
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Download & install
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+First, clone the repository with the 'clone' command, or just download the zip.
+
+```
+$ git clone git@github.com:KhalillHussein/weather-app.git
+
+
+```
+
+Then, download either Android Studio or Visual Studio Code, with their respective [Flutter editor plugins](https://flutter.io/get-started/editor/). For more information about Flutter installation procedure, check the [official install guide](https://flutter.io/get-started/install/).
+
+Install dependencies from pubspec.yaml by running `flutter packages get` from the project root (see [using packages documentation](https://flutter.io/using-packages/#adding-a-package-dependency-to-an-app) for details and how to do this in the editor).
+
+There you go, you can now open & edit the project. Enjoy!
+
+## Built with
+
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- [Android Studio](https://developer.android.com/studio/index.html/) - Code editing. Tools for building apps on every type of Android device.
+
